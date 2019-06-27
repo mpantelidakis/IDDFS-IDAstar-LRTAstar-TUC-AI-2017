@@ -1,0 +1,1 @@
+To change the input file, change the path in the main function located in the Fullproj class
