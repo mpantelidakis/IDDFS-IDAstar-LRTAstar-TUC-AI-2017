@@ -1,0 +1,108 @@
+<Source> Square1821 </Source>
+<Destination> D</Destination>
+<Roads>
+AOAN_Avenue; A ; B ; 18
+a2; A ; B ; 31
+road3; A ; B ; 18
+avenue111; Square1821; A; 12
+lalakisStreet; A ; B ; 19
+A2; Square1821; B; 15
+E19; A ; B ; 23
+ErgotelisAve; C ; LibertyStatue; 12
+NikosStr ; B ; C ; 12
+MariaStr ; B ; D ; 11
+EuterpiStreet ; B ; D ; 12
+SpartaRoad ; C ; D ; 12
+PlataniasRd; A ; LibertyStatue ; 32
+OFH_Avenue; B ; LibertyStatue ; 25
+CyprusRoad; LibertyStatue; B; 5
+TempRoad; D ; TempNode ; 12
+TempRoadDTemp; TempNode; D ; 12
+TempRoadDTemp2; TempNode; D ; 12
+</Roads>
+
+<Predictions>
+<Day>
+AOAN_Avenue; low
+a2; low
+road3; heavy
+avenue111; low
+lalakisStreet; low
+A2; normal
+E19; heavy
+ErgotelisAve; normal
+NikosStr ; low
+MariaStr ; heavy
+EuterpiStreet ; low
+SpartaRoad ; normal
+PlataniasRd; heavy
+OFH_Avenue; low
+CyprusRoad; normal
+TempRoad ; normal
+TempRoadDTemp; heavy
+TempRoadDTemp2; low
+</Day>
+<Day>
+AOAN_Avenue; low
+a2; low
+road3; heavy
+avenue111; low
+lalakisStreet; low
+A2; normal
+E19; heavy
+ErgotelisAve; normal
+NikosStr ; low
+MariaStr ; heavy
+EuterpiStreet ; low
+SpartaRoad ; normal
+PlataniasRd; heavy
+OFH_Avenue; low
+CyprusRoad; normal
+TempRoad ; heavy
+TempRoadDTemp; low
+TempRoadDTemp2; heavy
+</Day>
+</Predictions>
+
+<ActualTrafficPerDay>
+<Day>
+AOAN_Avenue; low
+a2; normal
+road3; heavy
+avenue111; low
+lalakisStreet; heavy
+A2; low
+E19; low
+ErgotelisAve; normal
+NikosStr ; low
+MariaStr ; heavy
+EuterpiStreet ; normal
+SpartaRoad ; normal
+PlataniasRd; heavy
+OFH_Avenue; low
+CyprusRoad; low
+TempRoad ; normal
+TempRoadDTemp; low
+TempRoadDTemp2; normal
+</Day>
+<Day>
+AOAN_Avenue; low
+a2; normal
+road3; heavy
+avenue111; low
+lalakisStreet; heavy
+A2; low
+E19; low
+ErgotelisAve; normal
+NikosStr ; low
+MariaStr ; heavy
+EuterpiStreet ; normal
+SpartaRoad ; normal
+PlataniasRd; heavy
+OFH_Avenue; low
+CyprusRoad; low
+TempRoad ; low
+TempRoadDTemp; low
+TempRoadDTemp2; normal
+</Day>
+</ActualTrafficPerDay>

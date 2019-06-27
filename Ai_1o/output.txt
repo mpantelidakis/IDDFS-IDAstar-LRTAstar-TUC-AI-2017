@@ -1,0 +1,2005 @@
+---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.31
+Total actual cost : 97.55
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~3.167754ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 145.98000000000002
+Total actual cost : 144.45
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 26.73, Road86e, 10.89, Road86e, 10.89, Road86e, 10.89, Road86e, 10.89, Road86e, 10.89, Road89e, 27.720000000000002]
+IDA* took ~0.390954ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1286.3000000000002
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 28.75, Road37e, 36.0, Road18e, 95.0, Road15e, 36.0, Road41e, 46.25, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 28.75, Road37e, 36.0, Road17e, 15.0, Road18e, 95.0, Road48e, 17.1, Road34e, 36.0, Road33e, 31.0, Road32e, 53.75, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 33.75, Road81e, 72.0, Road84e, 77.5]
+LRTA* took ~100.496157ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 112.22999999999999
+Total actual cost : 113.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~6.860822ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 153.68
+Total actual cost : 147.5
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 30.509999999999998, Road86e, 10.89, Road86e, 10.89, Road86e, 10.89, Road86e, 10.89, Road86e, 10.89, Road89e, 31.64]
+IDA* took ~0.585498ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1196.25
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 62.1, Road40e, 20.7, Road37e, 36.0, Road18e, 68.4, Road15e, 45.0, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 40.5, Road49e, 55.0, Road40e, 20.7, Road37e, 36.0, Road17e, 18.75, Road18e, 68.4, Road48e, 19.0, Road34e, 45.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 40.5, Road24e, 40.5, Road47e, 9.9, Road34e, 45.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 27.0, Road81e, 72.0, Road84e, 77.5]
+LRTA* took ~2.063938ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 102.71
+Total actual cost : 101.0
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 32.67, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.294381ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 148.94
+Total actual cost : 139.7
+Recommended path with predicted cost for each road : [Road37e, 35.64, Road145e, 27.81, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 28.840000000000003]
+IDA* took ~0.176816ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1294.1
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 69.0, Road40e, 28.75, Road37e, 32.4, Road18e, 76.0, Road15e, 36.0, Road41e, 46.25, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road40e, 28.75, Road37e, 32.4, Road17e, 15.0, Road18e, 76.0, Road48e, 17.1, Road34e, 45.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road35e, 40.5, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~1.782619ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 106.57
+Total actual cost : 99.1
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.36063ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 155.56
+Total actual cost : 152.2
+Recommended path with predicted cost for each road : [Road37e, 40.67999999999999, Road145e, 30.509999999999998, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 27.720000000000002]
+IDA* took ~0.193611ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1184.1
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 62.1, Road40e, 23.0, Road37e, 45.0, Road18e, 68.4, Road15e, 36.0, Road41e, 37.0, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 23.0, Road37e, 45.0, Road17e, 18.75, Road18e, 68.4, Road48e, 17.1, Road34e, 36.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 27.0, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~2.801993ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 107.32999999999998
+Total actual cost : 109.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.313043ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 183.92
+Total actual cost : 168.10000000000002
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.919068ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1274.3
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 95.0, Road15e, 36.0, Road41e, 46.25, Road27e, 63.9, Road24e, 56.25, Road49e, 68.75, Road40e, 23.0, Road37e, 36.0, Road17e, 15.0, Road18e, 95.0, Road48e, 19.0, Road34e, 32.4, Road33e, 31.0, Road32e, 53.75, Road33e, 31.0, Road24e, 56.25, Road24e, 56.25, Road47e, 13.75, Road34e, 32.4, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 24.3, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~1.67485ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.31
+Total actual cost : 102.45
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.385822ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 177.94
+Total actual cost : 187.75
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.56637ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1261.5
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 45.0, Road18e, 76.0, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 23.0, Road37e, 45.0, Road17e, 18.75, Road18e, 76.0, Road48e, 23.75, Road34e, 36.0, Road33e, 38.75, Road32e, 43.0, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~1.590408ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.95
+Total actual cost : 107.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 32.67, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.27712ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 177.02
+Total actual cost : 169.3
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.120832ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1275.4
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 28.75, Road37e, 32.4, Road18e, 68.4, Road15e, 36.0, Road41e, 37.0, Road27e, 63.9, Road24e, 56.25, Road49e, 68.75, Road40e, 28.75, Road37e, 32.4, Road17e, 13.5, Road18e, 68.4, Road48e, 19.0, Road34e, 45.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 56.25, Road24e, 56.25, Road47e, 9.9, Road34e, 45.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 33.75, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~2.770268ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.93
+Total actual cost : 126.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.293449ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 179.22
+Total actual cost : 168.5
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~1.035235ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1256.55
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 86.25, Road40e, 28.75, Road37e, 32.4, Road18e, 68.4, Road15e, 32.4, Road41e, 46.25, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road40e, 28.75, Road37e, 32.4, Road17e, 18.75, Road18e, 68.4, Road48e, 19.0, Road34e, 36.0, Road33e, 38.75, Road32e, 43.0, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 33.75, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~0.988115ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.61000000000001
+Total actual cost : 94.2
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.319108ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 182.48000000000002
+Total actual cost : 182.95
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 27.720000000000002, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.274788ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1200.5
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 76.0, Road15e, 36.0, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 20.7, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 90.0, Road84e, 62.0]
+LRTA* took ~1.59694ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 102.71
+Total actual cost : 101.0
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 32.67, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.17635ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 181.70000000000002
+Total actual cost : 175.5
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.058783ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1254.6499999999999
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 62.1, Road40e, 23.0, Road37e, 32.4, Road18e, 76.0, Road15e, 36.0, Road41e, 46.25, Road27e, 88.75, Road24e, 45.0, Road49e, 68.75, Road40e, 23.0, Road37e, 32.4, Road17e, 15.0, Road18e, 76.0, Road48e, 17.1, Road34e, 32.4, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 32.4, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.920935ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.31
+Total actual cost : 109.95
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.71566ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 179.82000000000002
+Total actual cost : 193.75
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~4.202522ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1313.9500000000003
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 95.0, Road15e, 45.0, Road41e, 46.25, Road27e, 88.75, Road24e, 56.25, Road49e, 68.75, Road40e, 23.0, Road37e, 36.0, Road17e, 18.75, Road18e, 95.0, Road48e, 19.0, Road34e, 45.0, Road33e, 27.900000000000002, Road32e, 38.7, Road33e, 27.900000000000002, Road24e, 56.25, Road24e, 56.25, Road47e, 11.0, Road34e, 45.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 27.0, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.96992ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 97.7
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.182881ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 153.98
+Total actual cost : 152.3
+Recommended path with predicted cost for each road : [Road37e, 40.67999999999999, Road145e, 27.81, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 28.840000000000003]
+IDA* took ~0.039189ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1274.1499999999999
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 23.0, Road37e, 45.0, Road18e, 95.0, Road15e, 36.0, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 23.0, Road37e, 45.0, Road17e, 15.0, Road18e, 95.0, Road48e, 19.0, Road34e, 36.0, Road33e, 31.0, Road32e, 38.7, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 24.3, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~1.824141ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.31
+Total actual cost : 102.45
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.25426ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 183.92
+Total actual cost : 184.0
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.048986ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1251.45
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 45.0, Road18e, 95.0, Road15e, 32.4, Road41e, 46.25, Road27e, 63.9, Road24e, 45.0, Road49e, 49.5, Road40e, 23.0, Road37e, 45.0, Road17e, 18.75, Road18e, 95.0, Road48e, 17.1, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 33.75, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.698399ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 99.99000000000001
+Total actual cost : 104.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 32.67, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.297181ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 185.44
+Total actual cost : 175.5
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 31.64, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.077911ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1192.3
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 28.75, Road37e, 36.0, Road18e, 68.4, Road15e, 45.0, Road41e, 46.25, Road27e, 71.0, Road24e, 45.0, Road49e, 49.5, Road40e, 28.75, Road37e, 36.0, Road17e, 18.75, Road18e, 68.4, Road48e, 23.75, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 43.0, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 27.0, Road81e, 72.0, Road84e, 62.0]
+LRTA* took ~1.728035ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 102.07000000000002
+Total actual cost : 104.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 19.57]
+IDDFS took ~0.275721ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 148.94
+Total actual cost : 156.15
+Recommended path with predicted cost for each road : [Road37e, 35.64, Road145e, 27.81, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 28.840000000000003]
+IDA* took ~0.055517ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1256.9
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 32.4, Road18e, 95.0, Road15e, 36.0, Road41e, 37.0, Road27e, 63.9, Road24e, 56.25, Road49e, 68.75, Road40e, 23.0, Road37e, 32.4, Road17e, 18.75, Road18e, 95.0, Road48e, 23.75, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 38.7, Road33e, 27.900000000000002, Road24e, 56.25, Road24e, 56.25, Road47e, 11.0, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 33.75, Road81e, 72.0, Road84e, 62.0]
+LRTA* took ~0.732456ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.31
+Total actual cost : 102.45
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.376491ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 183.92
+Total actual cost : 173.2
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.050386ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1381.7
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 45.0, Road18e, 95.0, Road15e, 36.0, Road41e, 37.0, Road27e, 88.75, Road24e, 56.25, Road49e, 55.0, Road40e, 23.0, Road37e, 45.0, Road17e, 15.0, Road18e, 95.0, Road48e, 23.75, Road34e, 36.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 56.25, Road24e, 56.25, Road47e, 9.9, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.649413ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 114.0
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.256593ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 186.4
+Total actual cost : 176.3
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.107302ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1221.2
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 76.0, Road15e, 36.0, Road41e, 37.0, Road27e, 71.0, Road24e, 45.0, Road49e, 68.75, Road40e, 23.0, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 23.75, Road34e, 36.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 33.75, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.872881ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 107.32999999999998
+Total actual cost : 113.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.300913ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 182.48000000000002
+Total actual cost : 167.20000000000002
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 27.720000000000002, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.048053ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1221.55
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 69.0, Road40e, 28.75, Road37e, 32.4, Road18e, 95.0, Road15e, 45.0, Road41e, 46.25, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road40e, 28.75, Road37e, 32.4, Road17e, 13.5, Road18e, 95.0, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 43.0, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 27.0, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.841624ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 97.7
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.557972ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 181.70000000000002
+Total actual cost : 167.20000000000002
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.081177ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1202.4499999999998
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 86.25, Road40e, 28.75, Road37e, 32.4, Road18e, 68.4, Road15e, 36.0, Road41e, 46.25, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road40e, 28.75, Road37e, 32.4, Road17e, 13.5, Road18e, 68.4, Road48e, 19.0, Road34e, 36.0, Road33e, 31.0, Road32e, 53.75, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 33.75, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.700731ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 104.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.16282ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 180.74
+Total actual cost : 175.10000000000002
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 31.64, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.092374ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1292.55
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 62.1, Road40e, 28.75, Road37e, 36.0, Road18e, 95.0, Road15e, 45.0, Road41e, 46.25, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road40e, 28.75, Road37e, 36.0, Road17e, 18.75, Road18e, 95.0, Road48e, 23.75, Road34e, 45.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 45.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 27.0, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.637283ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.61000000000001
+Total actual cost : 95.8
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.225335ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 179.22
+Total actual cost : 191.25
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.041055ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1199.3
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 62.1, Road40e, 23.0, Road37e, 36.0, Road18e, 68.4, Road15e, 36.0, Road41e, 46.25, Road27e, 63.9, Road24e, 45.0, Road49e, 49.5, Road40e, 23.0, Road37e, 36.0, Road17e, 13.5, Road18e, 68.4, Road48e, 17.1, Road34e, 36.0, Road33e, 38.75, Road32e, 43.0, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.583166ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 108.05
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.24353ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 185.12
+Total actual cost : 177.8
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.078844ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1232.85
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 28.75, Road37e, 32.4, Road18e, 68.4, Road15e, 32.4, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 55.0, Road40e, 28.75, Road37e, 32.4, Road17e, 18.75, Road18e, 68.4, Road48e, 19.0, Road34e, 45.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road35e, 45.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.623287ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 95.8
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.218337ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 175.74
+Total actual cost : 173.85
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.089574ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1189.1499999999999
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 86.25, Road40e, 20.7, Road37e, 36.0, Road18e, 68.4, Road15e, 36.0, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 55.0, Road40e, 20.7, Road37e, 36.0, Road17e, 13.5, Road18e, 68.4, Road48e, 19.0, Road34e, 32.4, Road33e, 31.0, Road32e, 53.75, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 32.4, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 24.3, Road81e, 90.0, Road84e, 62.0]
+LRTA* took ~0.940995ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 109.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.321907ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 175.9
+Total actual cost : 171.2
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 27.720000000000002, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.107303ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1237.0
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 45.0, Road18e, 68.4, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 71.0, Road24e, 45.0, Road49e, 55.0, Road40e, 23.0, Road37e, 45.0, Road17e, 15.0, Road18e, 68.4, Road48e, 17.1, Road34e, 36.0, Road33e, 38.75, Road32e, 43.0, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 72.0, Road84e, 77.5]
+LRTA* took ~0.584098ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 111.47
+Total actual cost : 108.05
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.231867ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 177.78000000000003
+Total actual cost : 192.95
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 27.720000000000002, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.063449ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1345.25
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 86.25, Road40e, 28.75, Road37e, 36.0, Road18e, 95.0, Road15e, 36.0, Road41e, 37.0, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road40e, 28.75, Road37e, 36.0, Road17e, 15.0, Road18e, 95.0, Road48e, 19.0, Road34e, 45.0, Road33e, 38.75, Road32e, 43.0, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road35e, 45.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.518317ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 102.07000000000002
+Total actual cost : 104.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 19.57]
+IDDFS took ~0.28785ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 181.70000000000002
+Total actual cost : 176.3
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.075112ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1248.6999999999998
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 76.0, Road15e, 32.4, Road41e, 37.0, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road40e, 23.0, Road37e, 36.0, Road17e, 18.75, Road18e, 76.0, Road48e, 23.75, Road34e, 45.0, Road33e, 38.75, Road32e, 38.7, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road35e, 40.5, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 33.75, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.642881ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.93
+Total actual cost : 109.95
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.322374ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 175.74
+Total actual cost : 187.75
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.287384ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1290.8
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 86.25, Road40e, 28.75, Road37e, 36.0, Road18e, 76.0, Road15e, 36.0, Road41e, 46.25, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 28.75, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 19.0, Road34e, 36.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.47353ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 114.0
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.190345ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 152.89999999999998
+Total actual cost : 159.3
+Recommended path with predicted cost for each road : [Road37e, 40.67999999999999, Road145e, 26.73, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 28.840000000000003]
+IDA* took ~0.041521ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 33
+Total actual cost : 1346.9000000000003
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 28.75, Road37e, 45.0, Road18e, 95.0, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 63.9, Road24e, 45.0, Road49e, 55.0, Road20e, 9.9, Road18e, 95.0, Road17e, 15.0, Road1e, 47.0, Road8e, 63.0, Road38e, 47.0, Road37e, 45.0, Road48e, 17.1, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 43.0, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.334504ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 97.7
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.136694ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 184.80000000000004
+Total actual cost : 202.5
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 66.67, Road100e, 48.410000000000004]
+IDA* took ~0.048986ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1187.4499999999998
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 20.7, Road37e, 45.0, Road18e, 68.4, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road40e, 20.7, Road37e, 45.0, Road17e, 18.75, Road18e, 68.4, Road48e, 23.75, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 38.7, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 27.0, Road81e, 90.0, Road84e, 62.0]
+LRTA* took ~0.257526ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.31
+Total actual cost : 102.45
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.15069ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 187.92000000000002
+Total actual cost : 209.5
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 8.24, Road153e, 66.67, Road100e, 48.410000000000004]
+IDA* took ~0.105903ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1225.5
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 62.1, Road40e, 23.0, Road37e, 32.4, Road18e, 95.0, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 23.0, Road37e, 32.4, Road17e, 15.0, Road18e, 95.0, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 33.75, Road81e, 72.0, Road84e, 62.0]
+LRTA* took ~0.486126ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 107.61
+Total actual cost : 121.5
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 32.67, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.146958ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 186.64000000000001
+Total actual cost : 190.25
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 31.64, Road140e, 8.24, Road153e, 66.67, Road100e, 48.410000000000004]
+IDA* took ~0.043854ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1217.55
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 95.0, Road15e, 36.0, Road41e, 33.300000000000004, Road27e, 71.0, Road24e, 45.0, Road49e, 55.0, Road40e, 20.7, Road37e, 36.0, Road17e, 18.75, Road18e, 95.0, Road48e, 23.75, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 72.0, Road84e, 55.800000000000004]
+LRTA* took ~0.838825ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 108.05
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.297648ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 151.95999999999998
+Total actual cost : 140.5
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 30.509999999999998, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 27.720000000000002]
+IDA* took ~0.072779ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1186.1999999999998
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 86.25, Road40e, 23.0, Road37e, 36.0, Road18e, 76.0, Road15e, 45.0, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road40e, 23.0, Road37e, 36.0, Road17e, 15.0, Road18e, 76.0, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 43.0, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~0.621888ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 121.5
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.214605ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 176.50000000000003
+Total actual cost : 168.5
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 27.720000000000002, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.052718ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1272.7999999999997
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 32.4, Road18e, 95.0, Road15e, 32.4, Road41e, 37.0, Road27e, 71.0, Road24e, 45.0, Road49e, 55.0, Road40e, 23.0, Road37e, 32.4, Road17e, 15.0, Road18e, 95.0, Road48e, 23.75, Road34e, 36.0, Road33e, 38.75, Road32e, 43.0, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.491259ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 95.8
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.3485ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 183.52000000000004
+Total actual cost : 184.05
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 66.67, Road100e, 48.410000000000004]
+IDA* took ~0.061583ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1259.65
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 28.75, Road37e, 32.4, Road18e, 95.0, Road15e, 45.0, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 28.75, Road37e, 32.4, Road17e, 18.75, Road18e, 95.0, Road48e, 23.75, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.375558ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 107.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.146025ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 183.92
+Total actual cost : 184.95
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.036856ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1220.8
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 68.4, Road15e, 36.0, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 20.7, Road37e, 36.0, Road17e, 18.75, Road18e, 68.4, Road48e, 17.1, Road34e, 32.4, Road33e, 38.75, Road32e, 38.7, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 32.4, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.236065ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 112.22999999999999
+Total actual cost : 92.8
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.155822ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 175.9
+Total actual cost : 173.2
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 27.720000000000002, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.048986ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1301.2
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 20.7, Road37e, 45.0, Road18e, 76.0, Road15e, 36.0, Road41e, 46.25, Road27e, 71.0, Road24e, 45.0, Road49e, 55.0, Road40e, 20.7, Road37e, 45.0, Road17e, 13.5, Road18e, 76.0, Road48e, 17.1, Road34e, 45.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road35e, 40.5, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 33.75, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.233266ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 105.93
+Total actual cost : 114.0
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 21.470000000000002]
+IDDFS took ~0.129229ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 146.74
+Total actual cost : 146.7
+Recommended path with predicted cost for each road : [Road37e, 35.64, Road145e, 26.73, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 27.720000000000002]
+IDA* took ~0.031258ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1229.05
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 28.75, Road37e, 45.0, Road18e, 68.4, Road15e, 32.4, Road41e, 46.25, Road27e, 71.0, Road24e, 45.0, Road49e, 49.5, Road20e, 9.9, Road18e, 68.4, Road17e, 18.75, Road18e, 68.4, Road48e, 17.1, Road34e, 36.0, Road33e, 31.0, Road32e, 53.75, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 27.0, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.241664ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 95.8
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.198276ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 149.3
+Total actual cost : 146.0
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 26.73, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 28.840000000000003]
+IDA* took ~0.045254ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1208.1
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 62.1, Road40e, 23.0, Road37e, 36.0, Road18e, 76.0, Road15e, 32.4, Road41e, 37.0, Road27e, 71.0, Road24e, 45.0, Road49e, 68.75, Road40e, 23.0, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 27.0, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.435741ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.93
+Total actual cost : 121.5
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.133894ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 181.70000000000002
+Total actual cost : 190.95
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.045253ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1282.85
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 76.0, Road15e, 36.0, Road41e, 37.0, Road27e, 71.0, Road24e, 40.5, Road49e, 49.5, Road40e, 23.0, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 17.1, Road34e, 45.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 40.5, Road24e, 40.5, Road47e, 13.75, Road35e, 56.25, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.24213ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 108.05
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.209939ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 151.95999999999998
+Total actual cost : 153.0
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 30.509999999999998, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 27.720000000000002]
+IDA* took ~0.042921ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1328.5
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 28.75, Road37e, 36.0, Road18e, 95.0, Road15e, 36.0, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 28.75, Road37e, 36.0, Road17e, 13.5, Road18e, 95.0, Road48e, 23.75, Road34e, 36.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.926066ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.93
+Total actual cost : 121.5
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.200609ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 177.62
+Total actual cost : 185.75
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.058783ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1222.95
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 86.25, Road40e, 28.75, Road37e, 36.0, Road18e, 68.4, Road15e, 36.0, Road41e, 37.0, Road27e, 71.0, Road24e, 45.0, Road49e, 68.75, Road40e, 28.75, Road37e, 36.0, Road17e, 18.75, Road18e, 68.4, Road48e, 17.1, Road34e, 36.0, Road33e, 31.0, Road32e, 53.75, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 27.0, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~0.391887ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 108.05
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.226734ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 176.82000000000002
+Total actual cost : 162.50000000000003
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 27.720000000000002, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.059716ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1213.6000000000001
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 20.7, Road37e, 45.0, Road18e, 76.0, Road15e, 45.0, Road41e, 37.0, Road27e, 88.75, Road24e, 40.5, Road49e, 55.0, Road40e, 20.7, Road37e, 45.0, Road17e, 18.75, Road18e, 76.0, Road48e, 17.1, Road34e, 36.0, Road33e, 31.0, Road32e, 38.7, Road33e, 31.0, Road24e, 40.5, Road24e, 40.5, Road47e, 9.9, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 27.0, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.451137ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 109.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.192678ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 177.62
+Total actual cost : 176.0
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.062515ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1271.55
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 20.7, Road37e, 45.0, Road18e, 95.0, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road40e, 20.7, Road37e, 45.0, Road17e, 15.0, Road18e, 95.0, Road48e, 19.0, Road34e, 36.0, Road33e, 38.75, Road32e, 38.7, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 33.75, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.42781ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 108.05
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.195943ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 151.74
+Total actual cost : 146.7
+Recommended path with predicted cost for each road : [Road37e, 35.64, Road145e, 27.81, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 31.64]
+IDA* took ~0.037789ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1208.1499999999999
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 28.75, Road37e, 32.4, Road18e, 95.0, Road15e, 36.0, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road40e, 28.75, Road37e, 32.4, Road17e, 13.5, Road18e, 95.0, Road48e, 17.1, Road34e, 36.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 24.3, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.448804ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.93
+Total actual cost : 109.95
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.423612ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 154.44
+Total actual cost : 149.4
+Recommended path with predicted cost for each road : [Road37e, 35.64, Road145e, 30.509999999999998, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 31.64]
+IDA* took ~0.093773ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1300.65
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 20.7, Road37e, 32.4, Road18e, 95.0, Road15e, 36.0, Road41e, 46.25, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 20.7, Road37e, 32.4, Road17e, 13.5, Road18e, 95.0, Road48e, 19.0, Road34e, 36.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 90.0, Road84e, 62.0]
+LRTA* took ~0.230467ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 107.61
+Total actual cost : 121.5
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 32.67, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.137161ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 6
+Total natural cost : 174.0
+Total prediction cost : 176.54
+Total actual cost : 189.85
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 58.41, Road100e, 48.410000000000004]
+IDA* took ~0.039189ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1203.85
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 76.0, Road15e, 36.0, Road41e, 46.25, Road27e, 63.9, Road24e, 45.0, Road49e, 49.5, Road40e, 20.7, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 17.1, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.216004ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 102.07000000000002
+Total actual cost : 92.8
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 19.57]
+IDDFS took ~0.144625ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 187.60000000000002
+Total actual cost : 209.5
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 66.67, Road100e, 48.410000000000004]
+IDA* took ~0.043854ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1237.8000000000002
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 62.1, Road40e, 28.75, Road37e, 45.0, Road18e, 68.4, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road20e, 11.0, Road18e, 68.4, Road17e, 15.0, Road18e, 68.4, Road48e, 17.1, Road34e, 36.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 33.75, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.221136ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 108.05
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.14789ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 179.82000000000002
+Total actual cost : 200.75
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.043854ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1287.75
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 86.25, Road40e, 28.75, Road37e, 36.0, Road18e, 95.0, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road40e, 28.75, Road37e, 36.0, Road17e, 13.5, Road18e, 95.0, Road48e, 19.0, Road34e, 36.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.28925ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 109.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.137627ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 184.44
+Total actual cost : 189.85000000000002
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 31.64, Road140e, 7.92, Road153e, 66.67, Road100e, 46.53]
+IDA* took ~0.043854ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1238.2499999999998
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 76.0, Road15e, 36.0, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 49.5, Road40e, 20.7, Road37e, 36.0, Road17e, 18.75, Road18e, 76.0, Road48e, 23.75, Road34e, 36.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.216937ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 97.7
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.179148ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 150.38
+Total actual cost : 149.15
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 27.81, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 28.840000000000003]
+IDA* took ~0.038722ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1182.8
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 23.0, Road37e, 32.4, Road18e, 76.0, Road15e, 45.0, Road41e, 46.25, Road27e, 88.75, Road24e, 40.5, Road49e, 55.0, Road40e, 23.0, Road37e, 32.4, Road17e, 18.75, Road18e, 76.0, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 43.0, Road33e, 27.900000000000002, Road24e, 40.5, Road24e, 40.5, Road47e, 11.0, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 33.75, Road81e, 72.0, Road84e, 55.800000000000004]
+LRTA* took ~0.408215ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 107.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.178215ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 151.95999999999998
+Total actual cost : 143.2
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 30.509999999999998, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 27.720000000000002]
+IDA* took ~0.037322ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1297.25
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 95.0, Road15e, 45.0, Road41e, 46.25, Road27e, 63.9, Road24e, 45.0, Road49e, 55.0, Road40e, 20.7, Road37e, 36.0, Road17e, 13.5, Road18e, 95.0, Road48e, 19.0, Road34e, 32.4, Road33e, 38.75, Road32e, 43.0, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 32.4, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.390953ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 107.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.218337ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 150.38
+Total actual cost : 143.3
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 27.81, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 28.840000000000003]
+IDA* took ~0.063448ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1227.4499999999998
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 28.75, Road37e, 36.0, Road18e, 95.0, Road15e, 36.0, Road41e, 33.300000000000004, Road27e, 63.9, Road24e, 45.0, Road49e, 55.0, Road40e, 28.75, Road37e, 36.0, Road17e, 18.75, Road18e, 95.0, Road48e, 23.75, Road34e, 36.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 24.3, Road81e, 72.0, Road84e, 55.800000000000004]
+LRTA* took ~0.411014ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.97
+Total actual cost : 97.55
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 21.470000000000002]
+IDDFS took ~0.20714ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 159.47999999999996
+Total actual cost : 159.3
+Recommended path with predicted cost for each road : [Road37e, 40.67999999999999, Road145e, 30.509999999999998, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 31.64]
+IDA* took ~0.038723ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1213.0
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 62.1, Road40e, 28.75, Road37e, 45.0, Road18e, 68.4, Road15e, 36.0, Road41e, 46.25, Road27e, 63.9, Road24e, 56.25, Road49e, 49.5, Road20e, 13.75, Road18e, 68.4, Road17e, 15.0, Road18e, 68.4, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 56.25, Road24e, 56.25, Road47e, 13.75, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~0.848155ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 109.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.194078ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 6
+Total natural cost : 174.0
+Total prediction cost : 175.26
+Total actual cost : 166.9
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 58.41, Road100e, 48.410000000000004]
+IDA* took ~0.053651ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1290.6999999999998
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 86.25, Road40e, 28.75, Road37e, 32.4, Road18e, 76.0, Road15e, 36.0, Road41e, 46.25, Road27e, 71.0, Road24e, 56.25, Road49e, 68.75, Road40e, 28.75, Road37e, 32.4, Road17e, 13.5, Road18e, 76.0, Road48e, 19.0, Road34e, 36.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 56.25, Road24e, 56.25, Road47e, 9.9, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 33.75, Road81e, 90.0, Road84e, 62.0]
+LRTA* took ~0.829961ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.31
+Total actual cost : 90.9
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.172616ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 153.18
+Total actual cost : 159.75
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 27.81, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 31.64]
+IDA* took ~0.03359ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1176.9999999999998
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 76.0, Road15e, 36.0, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 40.5, Road49e, 49.5, Road40e, 20.7, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 19.0, Road34e, 32.4, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 40.5, Road24e, 40.5, Road47e, 13.75, Road34e, 32.4, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 33.75, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.414281ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 105.93
+Total actual cost : 102.45
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 21.470000000000002]
+IDDFS took ~0.423145ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 183.6
+Total actual cost : 187.75
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.074178ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1201.8
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 86.25, Road40e, 23.0, Road37e, 36.0, Road18e, 76.0, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 63.9, Road24e, 45.0, Road49e, 55.0, Road40e, 23.0, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 23.75, Road34e, 36.0, Road33e, 31.0, Road32e, 38.7, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 33.75, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.442739ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 119.6
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.194077ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 182.32
+Total actual cost : 168.10000000000002
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.067647ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1244.2
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 95.0, Road15e, 32.4, Road41e, 37.0, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road40e, 20.7, Road37e, 36.0, Road17e, 18.75, Road18e, 95.0, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 43.0, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 33.75, Road81e, 90.0, Road84e, 62.0]
+LRTA* took ~0.673206ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.93
+Total actual cost : 121.5
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.218337ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 154.76
+Total actual cost : 156.95
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 27.81, Road86e, 12.43, Road86e, 12.43, Road86e, 12.43, Road86e, 12.43, Road86e, 12.43, Road89e, 27.720000000000002]
+IDA* took ~0.042921ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1295.5500000000002
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 95.0, Road15e, 45.0, Road41e, 46.25, Road27e, 71.0, Road24e, 45.0, Road49e, 55.0, Road40e, 20.7, Road37e, 36.0, Road17e, 13.5, Road18e, 95.0, Road48e, 23.75, Road34e, 45.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 45.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 27.0, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.400285ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 111.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.216005ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 176.06
+Total actual cost : 192.95
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.055517ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1246.55
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 69.0, Road40e, 28.75, Road37e, 45.0, Road18e, 68.4, Road15e, 45.0, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road20e, 9.9, Road18e, 68.4, Road17e, 15.0, Road18e, 68.4, Road48e, 17.1, Road34e, 45.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 45.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 33.75, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.371826ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 105.37
+Total actual cost : 96.1
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 48.510000000000005, Road101e, 19.57]
+IDDFS took ~0.192678ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 156.68
+Total actual cost : 152.2
+Recommended path with predicted cost for each road : [Road37e, 40.67999999999999, Road145e, 30.509999999999998, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 28.840000000000003]
+IDA* took ~0.059249ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 33
+Total actual cost : 1438.9
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 69.0, Road40e, 28.75, Road37e, 45.0, Road18e, 95.0, Road15e, 36.0, Road41e, 33.300000000000004, Road27e, 71.0, Road24e, 45.0, Road49e, 55.0, Road20e, 9.9, Road18e, 95.0, Road17e, 15.0, Road1e, 42.300000000000004, Road8e, 63.0, Road38e, 58.75, Road37e, 45.0, Road48e, 23.75, Road34e, 36.0, Road33e, 31.0, Road32e, 53.75, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 27.0, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.454869ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 126.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.404017ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 6
+Total natural cost : 174.0
+Total prediction cost : 181.24
+Total actual cost : 176.0
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 7.92, Road153e, 58.41, Road100e, 53.11]
+IDA* took ~0.073712ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1215.1
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 76.0, Road15e, 45.0, Road41e, 37.0, Road27e, 88.75, Road24e, 40.5, Road49e, 68.75, Road40e, 23.0, Road37e, 36.0, Road17e, 15.0, Road18e, 76.0, Road48e, 17.1, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 40.5, Road24e, 40.5, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~2.3126ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.31
+Total actual cost : 90.9
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.703064ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 179.82000000000002
+Total actual cost : 181.0
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.069513ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1194.3
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 28.75, Road37e, 36.0, Road18e, 95.0, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 63.9, Road24e, 40.5, Road49e, 49.5, Road40e, 28.75, Road37e, 36.0, Road17e, 13.5, Road18e, 95.0, Road48e, 23.75, Road34e, 36.0, Road33e, 31.0, Road32e, 38.7, Road33e, 31.0, Road24e, 40.5, Road24e, 40.5, Road47e, 11.0, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 33.75, Road81e, 72.0, Road84e, 55.800000000000004]
+LRTA* took ~0.364361ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 102.07000000000002
+Total actual cost : 92.8
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 19.57]
+IDDFS took ~1.013308ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 152.86
+Total actual cost : 143.2
+Recommended path with predicted cost for each road : [Road37e, 40.67999999999999, Road145e, 27.81, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 27.720000000000002]
+IDA* took ~0.042454ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1157.6499999999999
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 20.7, Road37e, 36.0, Road18e, 76.0, Road15e, 45.0, Road41e, 37.0, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road40e, 20.7, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 17.1, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 38.7, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 27.0, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.45207ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 102.07000000000002
+Total actual cost : 92.8
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 19.57]
+IDDFS took ~0.193144ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 157.14
+Total actual cost : 153.45
+Recommended path with predicted cost for each road : [Road37e, 35.64, Road145e, 30.509999999999998, Road86e, 12.43, Road86e, 12.43, Road86e, 12.43, Road86e, 12.43, Road86e, 12.43, Road89e, 28.840000000000003]
+IDA* took ~0.139494ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1244.1499999999996
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 62.1, Road40e, 28.75, Road37e, 32.4, Road18e, 95.0, Road15e, 45.0, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 55.0, Road40e, 28.75, Road37e, 32.4, Road17e, 18.75, Road18e, 95.0, Road48e, 19.0, Road34e, 32.4, Road33e, 38.75, Road32e, 43.0, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 32.4, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~0.843023ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.31
+Total actual cost : 94.2
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 48.510000000000005, Road101e, 18.810000000000002]
+IDDFS took ~0.145558ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 179.82000000000002
+Total actual cost : 177.8
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.058784ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 33
+Total actual cost : 1386.1999999999998
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 69.0, Road40e, 28.75, Road37e, 45.0, Road18e, 76.0, Road15e, 36.0, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 55.0, Road20e, 9.9, Road18e, 76.0, Road17e, 13.5, Road1e, 47.0, Road8e, 63.0, Road38e, 58.75, Road37e, 45.0, Road48e, 19.0, Road34e, 36.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.400284ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.93
+Total actual cost : 109.95
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.202008ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 186.72
+Total actual cost : 188.2
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.054118ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1201.2499999999998
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 62.1, Road40e, 28.75, Road37e, 32.4, Road18e, 95.0, Road15e, 36.0, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road40e, 28.75, Road37e, 32.4, Road17e, 13.5, Road18e, 95.0, Road48e, 17.1, Road34e, 32.4, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 32.4, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 24.3, Road81e, 72.0, Road84e, 55.800000000000004]
+LRTA* took ~0.33637ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 105.37
+Total actual cost : 96.1
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 48.510000000000005, Road101e, 19.57]
+IDDFS took ~0.195944ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 146.74
+Total actual cost : 139.6
+Recommended path with predicted cost for each road : [Road37e, 35.64, Road145e, 26.73, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 27.720000000000002]
+IDA* took ~0.03639ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1260.6999999999998
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 69.0, Road40e, 20.7, Road37e, 32.4, Road18e, 68.4, Road15e, 32.4, Road41e, 33.300000000000004, Road27e, 71.0, Road24e, 56.25, Road49e, 55.0, Road40e, 20.7, Road37e, 32.4, Road17e, 18.75, Road18e, 68.4, Road48e, 17.1, Road34e, 45.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 56.25, Road24e, 56.25, Road47e, 9.9, Road35e, 40.5, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 72.0, Road84e, 77.5]
+LRTA* took ~0.349433ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.93
+Total actual cost : 109.95
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.175883ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 179.22
+Total actual cost : 194.75
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.055984ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1222.9
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 76.0, Road15e, 36.0, Road41e, 37.0, Road27e, 71.0, Road24e, 45.0, Road49e, 68.75, Road40e, 23.0, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 19.0, Road34e, 36.0, Road33e, 31.0, Road32e, 38.7, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 27.0, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.370893ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 101.95
+Total actual cost : 99.1
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 32.67, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.421278ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 181.20000000000002
+Total actual cost : 167.20000000000002
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 27.720000000000002, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.043854ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1251.1499999999999
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 62.1, Road40e, 28.75, Road37e, 45.0, Road18e, 68.4, Road15e, 32.4, Road41e, 37.0, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road20e, 9.9, Road18e, 68.4, Road17e, 18.75, Road18e, 68.4, Road48e, 23.75, Road34e, 36.0, Road33e, 38.75, Road32e, 38.7, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 64.8, Road84e, 77.5]
+LRTA* took ~0.534646ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 102.71
+Total actual cost : 109.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 32.67, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.217404ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 177.94
+Total actual cost : 170.60000000000002
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.050852ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1206.0499999999997
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 28.75, Road37e, 36.0, Road18e, 76.0, Road15e, 32.4, Road41e, 46.25, Road27e, 63.9, Road24e, 40.5, Road49e, 68.75, Road40e, 28.75, Road37e, 36.0, Road17e, 13.5, Road18e, 76.0, Road48e, 19.0, Road34e, 45.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 40.5, Road24e, 40.5, Road47e, 9.9, Road34e, 45.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 24.3, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~0.39562ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 119.6
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.247728ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 181.70000000000002
+Total actual cost : 186.85
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.43994ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 33
+Total actual cost : 1472.8999999999999
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 28.75, Road37e, 45.0, Road18e, 95.0, Road15e, 36.0, Road41e, 46.25, Road27e, 71.0, Road24e, 45.0, Road49e, 68.75, Road20e, 13.75, Road18e, 95.0, Road17e, 18.75, Road1e, 42.300000000000004, Road8e, 63.0, Road38e, 47.0, Road37e, 45.0, Road48e, 17.1, Road34e, 36.0, Road33e, 38.75, Road32e, 38.7, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 33.75, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.462333ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 119.6
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.227667ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 182.72000000000003
+Total actual cost : 196.5
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 27.720000000000002, Road140e, 8.24, Road153e, 66.67, Road100e, 48.410000000000004]
+IDA* took ~0.127364ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1260.2999999999997
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 86.25, Road40e, 20.7, Road37e, 45.0, Road18e, 76.0, Road15e, 32.4, Road41e, 37.0, Road27e, 88.75, Road24e, 40.5, Road49e, 55.0, Road40e, 20.7, Road37e, 45.0, Road17e, 18.75, Road18e, 76.0, Road48e, 19.0, Road34e, 36.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 40.5, Road24e, 40.5, Road47e, 9.9, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 27.0, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.384889ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 107.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.189878ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 177.34
+Total actual cost : 184.95
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 28.840000000000003, Road140e, 8.24, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.065781ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1186.8999999999999
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 68.4, Road15e, 45.0, Road41e, 37.0, Road27e, 71.0, Road24e, 45.0, Road49e, 55.0, Road40e, 23.0, Road37e, 36.0, Road17e, 13.5, Road18e, 68.4, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.75205ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 111.47
+Total actual cost : 119.6
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 37.29, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.2286ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 155.88
+Total actual cost : 150.3
+Recommended path with predicted cost for each road : [Road37e, 37.08, Road145e, 30.509999999999998, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 31.64]
+IDA* took ~0.039189ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1312.0
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 95.0, Road15e, 36.0, Road41e, 46.25, Road27e, 71.0, Road24e, 45.0, Road49e, 68.75, Road40e, 23.0, Road37e, 36.0, Road17e, 13.5, Road18e, 95.0, Road48e, 23.75, Road34e, 36.0, Road33e, 38.75, Road32e, 53.75, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 90.0, Road84e, 55.800000000000004]
+LRTA* took ~0.494524ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 104.03
+Total actual cost : 95.8
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 19.57]
+IDDFS took ~0.174949ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 181.54000000000002
+Total actual cost : 188.2
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 31.64, Road140e, 9.04, Road153e, 60.769999999999996, Road100e, 48.410000000000004]
+IDA* took ~0.062981ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1261.4
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 86.25, Road40e, 20.7, Road37e, 45.0, Road18e, 95.0, Road15e, 45.0, Road41e, 37.0, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road40e, 20.7, Road37e, 45.0, Road17e, 15.0, Road18e, 95.0, Road48e, 17.1, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 33.75, Road81e, 72.0, Road84e, 55.800000000000004]
+LRTA* took ~0.358763ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 107.61
+Total actual cost : 109.95
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 32.67, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.236532ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 8
+Total natural cost : 146.0
+Total prediction cost : 156.68
+Total actual cost : 149.5
+Recommended path with predicted cost for each road : [Road37e, 40.67999999999999, Road145e, 30.509999999999998, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road86e, 11.33, Road89e, 28.840000000000003]
+IDA* took ~0.042921ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1175.1999999999998
+Path with actual cost for each road : [Road36e, 29.7, Road45e, 69.0, Road40e, 20.7, Road37e, 45.0, Road18e, 68.4, Road15e, 36.0, Road41e, 33.300000000000004, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 20.7, Road37e, 45.0, Road17e, 13.5, Road18e, 68.4, Road48e, 23.75, Road34e, 45.0, Road33e, 27.900000000000002, Road32e, 38.7, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 45.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 24.3, Road81e, 64.8, Road84e, 55.800000000000004]
+LRTA* took ~0.796371ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 107.35
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.18708ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 179.82000000000002
+Total actual cost : 179.8
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 31.64, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.060649ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1237.6
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 69.0, Road40e, 23.0, Road37e, 36.0, Road18e, 95.0, Road15e, 45.0, Road41e, 37.0, Road27e, 63.9, Road24e, 45.0, Road49e, 68.75, Road40e, 23.0, Road37e, 36.0, Road17e, 15.0, Road18e, 95.0, Road48e, 19.0, Road34e, 36.0, Road33e, 27.900000000000002, Road32e, 53.75, Road33e, 27.900000000000002, Road24e, 45.0, Road24e, 45.0, Road47e, 9.9, Road34e, 36.0, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road33e, 27.900000000000002, Road145e, 33.75, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~0.36996ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.17000000000002
+Total actual cost : 119.6
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 18.810000000000002]
+IDDFS took ~0.236066ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 189.5
+Total actual cost : 180.45000000000002
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 27.720000000000002, Road140e, 9.04, Road153e, 66.67, Road100e, 53.11]
+IDA* took ~0.061583ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1197.6999999999998
+Path with actual cost for each road : [Road36e, 41.25, Road45e, 62.1, Road40e, 23.0, Road37e, 36.0, Road18e, 76.0, Road15e, 36.0, Road41e, 37.0, Road27e, 88.75, Road24e, 45.0, Road49e, 55.0, Road40e, 23.0, Road37e, 36.0, Road17e, 18.75, Road18e, 76.0, Road48e, 19.0, Road34e, 36.0, Road33e, 31.0, Road32e, 43.0, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 24.3, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~0.405417ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 103.27000000000001
+Total actual cost : 99.1
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 50.47, Road101e, 18.810000000000002]
+IDDFS took ~0.20854ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 174.62
+Total actual cost : 170.0
+Recommended path with predicted cost for each road : [Road146e, 31.68, Road133e, 27.720000000000002, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 46.53]
+IDA* took ~0.065314ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1322.1
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 86.25, Road40e, 20.7, Road37e, 45.0, Road18e, 95.0, Road15e, 36.0, Road41e, 46.25, Road27e, 88.75, Road24e, 45.0, Road49e, 68.75, Road40e, 20.7, Road37e, 45.0, Road17e, 18.75, Road18e, 95.0, Road48e, 17.1, Road34e, 36.0, Road33e, 38.75, Road32e, 43.0, Road33e, 38.75, Road24e, 45.0, Road24e, 45.0, Road47e, 11.0, Road34e, 36.0, Road33e, 38.75, Road33e, 38.75, Road33e, 38.75, Road145e, 24.3, Road81e, 64.8, Road84e, 62.0]
+LRTA* took ~1.186858ms~ to run---------------------------------------------
+Initiating IDDFS
+---------------------------------------------
+Expanded nodes : 23
+Total natural cost : 101.0
+Total prediction cost : 108.93
+Total actual cost : 113.25
+Destination was found at depth : 3
+Recommended path with predicted cost for each road : [Road36e, 33.99, Road144e, 55.37, Road101e, 19.57]
+IDDFS took ~0.130629ms~ to run
+---------------------------------------------
+Initiating IDA*
+---------------------------------------------
+Expanded nodes : 5
+Total natural cost : 174.0
+Total prediction cost : 182.48000000000002
+Total actual cost : 168.5
+Recommended path with predicted cost for each road : [Road146e, 32.96, Road133e, 27.720000000000002, Road140e, 7.92, Road153e, 60.769999999999996, Road100e, 53.11]
+IDA* took ~0.030791ms~ to run
+---------------------------------------------
+Initiating LRTA*
+---------------------------------------------
+Expanded nodes : 30
+Total actual cost : 1292.15
+Path with actual cost for each road : [Road36e, 33.0, Road45e, 69.0, Road40e, 23.0, Road37e, 32.4, Road18e, 95.0, Road15e, 45.0, Road41e, 46.25, Road27e, 88.75, Road24e, 45.0, Road49e, 49.5, Road40e, 23.0, Road37e, 32.4, Road17e, 18.75, Road18e, 95.0, Road48e, 17.1, Road34e, 36.0, Road33e, 31.0, Road32e, 53.75, Road33e, 31.0, Road24e, 45.0, Road24e, 45.0, Road47e, 13.75, Road34e, 36.0, Road33e, 31.0, Road33e, 31.0, Road33e, 31.0, Road145e, 27.0, Road81e, 90.0, Road84e, 77.5]
+LRTA* took ~0.19641ms~ to run
+
+ IDDFS average actual cost for 80 days : 106.44625000000008
+ IDA* average actual cost for 80 days : 171.42312500000006
+ LRTA* average actual cost for 80 days : 1251.9862499999995
